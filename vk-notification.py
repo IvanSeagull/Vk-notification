@@ -1,3 +1,9 @@
+#`````````````````````````````
+#
+#    Developed by Ivan Seagull
+#
+#`````````````````````````````
+
 from vk_api.longpoll import VkLongPoll, VkEventType
 import vk_api
 from datetime import datetime
